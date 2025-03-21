@@ -15,7 +15,7 @@ Internset DAO LLC is a **Wyoming-based Decentralized Autonomous Organization (DA
 ## 📂 Repository Contents
 
 - **[Governance Documents](https://github.com/intern-set/dao/tree/main/governance)** – Operating Agreement, policies, and other foundational documents.  
-- **DAO Charter** *(coming soon)* – Guidelines for proposal submission, decision-making, and community governance.  
+- **[DAO Charter](https://vault.internset.com/c/charter)** – Guidelines for proposal submission, decision-making, and community governance.  
 - **Voting & Proposals** – A record of past and active governance proposals on Aragon.  
 
 ---
