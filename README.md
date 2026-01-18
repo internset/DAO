@@ -16,7 +16,7 @@ Internset DAO LLC is a **Wyoming-based Decentralized Autonomous Organization (DA
 
 - **[Governance Documents](https://github.com/intern-set/dao/tree/main/governance)** – Operating Agreement, policies, and other foundational documents.  
 - **[DAO Charter](https://vault.internset.com/c/charter)** – Guidelines for proposal submission, decision-making, and community governance.  
-- **[Legal Documents](./legal/)** – Apostille certificates and official state filings for DAO and token registration. 
+- **[Legal Documents](./legal/)** – Apostille certificates and official state filings for DAO formation and Stipent (STPN) token registration.
 
 ---
 
