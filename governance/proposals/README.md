@@ -17,7 +17,8 @@ DIP numbers match the proposal numbers on Aragon (DIP-18 = TOKENVOTING-18).
 
 ## Index
 
+Proposals 0–17 predate this folder and are recorded on [Aragon](https://app.aragon.org/dao/polygon-mainnet/0x5b97f8D14E6EF12291E56d591058dA7d3B0Cd8D8/dashboard?members=0xA47c0BFdBcD8F52CBCc874d05F40B1e0e60D6c5A-tokenvoting&proposals=0xA47c0BFdBcD8F52CBCc874d05F40B1e0e60D6c5A-tokenvoting).
+
 | DIP | Title | Status |
-|---|---|---|
-| 0–17 | Earlier proposals | Recorded on [Aragon](https://app.aragon.org/dao/polygon-mainnet/0x5b97f8D14E6EF12291E56d591058dA7d3B0Cd8D8/dashboard?members=0xA47c0BFdBcD8F52CBCc874d05F40B1e0e60D6c5A-tokenvoting&proposals=0xA47c0BFdBcD8F52CBCc874d05F40B1e0e60D6c5A-tokenvoting) |
-| 18 | Ratify STPN ownership transfer to a 2-of-3 multisig, adopt a signer policy, and record the Cyberscope audit | Coming soon |
+|:---:|---|:---:|
+| DIP-18 | Ratify STPN ownership transfer to a 2-of-3 multisig, adopt a signer policy, and record the Cyberscope audit | Draft |
