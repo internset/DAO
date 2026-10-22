@@ -22,4 +22,4 @@ Proposals 0–17 predate this folder and are recorded on [Aragon](https://app.ar
 | DIP | Title | Status |
 |:---:|---|:---:|
 | DIP-18 | [Update DAO Resource Links](https://app.aragon.org/dao/polygon-mainnet/0x5b97f8D14E6EF12291E56d591058dA7d3B0Cd8D8/proposals/TOKENVOTING-18) | Executed |
-| DIP-19 | [Ratify STPN Multisig Ownership, Signers, Audit and Signer Policy](DIP-19-stpn-ownership-multisig-and-audit.md) | Comment period |
+| DIP-19 | [Ratify STPN Multisig Ownership, Signers, Audit and Signer Policy](https://app.aragon.org/dao/polygon-mainnet/0x5b97f8D14E6EF12291E56d591058dA7d3B0Cd8D8/proposals/TOKENVOTING-19) | Scheduled |
