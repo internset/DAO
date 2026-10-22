@@ -30,12 +30,22 @@ The contract is built on OpenZeppelin libraries and includes an owner role that 
 
 | Code | Finding | Severity | Status |
 |---|---|---|---|
-| ST | Stops Transactions (the owner can pause transfers) | Critical | Mitigated: contract ownership was transferred to a 2-of-3 Safe multisig |
-| PFVOR | See report | Minor | Acknowledged |
-| L15 | See report | Minor | Acknowledged |
-| L19 | See report | Minor | Acknowledged |
+| ST | Stops Transactions | Critical | Mitigated: contract ownership was transferred to a 2-of-3 Safe multisig |
+| PFVOR | Permanent Freeze Via Ownership Renouncement | Minor | Acknowledged |
+| L15 | Local Scope Variable Shadowing | Minor | Acknowledged |
+| L19 | Stable Compiler Version | Minor | Acknowledged |
 
-Full descriptions and the team's responses are in the report.
+### Checks passed
+
+| Code | Description | Status |
+|---|---|---|
+| OTUT | Transfers User's Tokens | Passed |
+| ELFM | Exceeds Fees Limit | Passed |
+| MT | Mints Tokens | Passed |
+| BT | Burns Tokens | Passed |
+| BC | Blacklists Addresses | Passed |
+
+Full descriptions, recommendations and the team's responses are in the report.
 
 ### Mitigation of the critical finding
 
