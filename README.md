@@ -17,6 +17,7 @@ Internset DAO LLC is a **Wyoming-based Decentralized Autonomous Organization (DA
 - **[Governance Documents](governance)** – Operating Agreement and other foundational documents.
 - **[DAO Proposals (DIPs)](governance/proposals)** – Official record of DAO Improvement Proposals and their outcomes.
 - **[Legal Documents](legal)** – Apostille certificates and official state filings for DAO formation and Stipent (STPN) token registration.
+- **[Smart Contract Audits](audits/)** – Independent security audits of the STPN token contract.
 
 ---
 
@@ -27,5 +28,5 @@ Internset DAO LLC is a **Wyoming-based Decentralized Autonomous Organization (DA
 - 💬 **Community Discussions:** [Internset Community](https://community.internset.com)
 - 💼 **Stipent (STPN) Token:** [stipent.com](https://www.stipent.com)
 - 📄 **STPN Contract (Polygon):** [0x2Af618611967Ddfb05bC94d64cb6F4B523E10D36](https://polygonscan.com/token/0x2Af618611967Ddfb05bC94d64cb6F4B523E10D36)
-- 🔐 **Smart Contract Audit:** [Cyberscope audit of STPN](https://app.cyberscope.io/audits/stpn)
+- 🔐 **Smart Contract Audit:** [Cyberscope audit of STPN](https://app.cyberscope.io/audits/stpn) · [Audit summary and report](audits/)
 - 🎙️ **Discord:** [Join the Stipent Discord](https://discord.gg/akCD3RqdGa)
