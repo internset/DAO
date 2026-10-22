@@ -45,4 +45,17 @@ On September 24, 2026, ownership of the STPN contract was transferred from a sin
 |---|---|
 | Contract owner (Safe) | [0xDE4A956D470B2017543d844d36727d0C9B6494Bd](https://polygonscan.com/address/0xDE4A956D470B2017543d844d36727d0C9B6494Bd) |
 | Threshold | Any 2 of 3 signers |
-| Ownership transfer | [0x3152e736…0e93766](https://polygonscan.com/tx/0x3152e736863a18ebd2d618acc7d29f729685a7353e9f5ca9b475c3aae0e9
+| Ownership transfer | [View transaction on PolygonScan](https://polygonscan.com/tx/0x3152e736863a18ebd2d618acc7d29f729685a7353e9f5ca9b475c3aae0e93766) |
+
+### Report
+
+- Report in this repository: [2026-09-cyberscope-stpn-smart-contract-audit.pdf](2026-09-cyberscope-stpn-smart-contract-audit.pdf)
+- Cyberscope audit page: [app.cyberscope.io/audits/stpn](https://app.cyberscope.io/audits/stpn)
+- Cyberscope GitHub: [cyberscope-io/audits/stpn](https://github.com/cyberscope-io/audits/blob/main/stpn/audit.pdf)
+- Notarized on Polygon via Docuper: [View transaction on PolygonScan](https://polygonscan.com/tx/0x034abf0bed0ced11c3765408cbe7631e34169f04d665435059b6a8118987417c)
+
+---
+
+## Disclaimer
+
+*This summary is for informational purposes only and does not constitute financial or security advice. The full audit report should be consulted for detailed information. The audit findings and remediation efforts reflect the state of the contract at the time of the audit.*
